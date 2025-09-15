@@ -1,4 +1,3 @@
-# Hi, and welcome to my portfolio!
 I'm an iOS dev with mostly experience with Swift exploring SwiftUI. I plan to post some of my projects here.
 
 ## Example iOS App with localization
