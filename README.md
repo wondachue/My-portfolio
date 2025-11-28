@@ -1,4 +1,4 @@
-I've worked as both an iOS and web dev. Here's just a sampling of my code.
+I've worked as both an iOS and web dev. Here's just a sampling of my personal projects:
 
 ## Example iOS App with localization
 - [GremGramReader](https://github.com/wondachue/GremGramReader)
